@@ -1,5 +1,5 @@
 linea 1: 0
-linea 2: 0
+linea 2: A
 linea 3: 0
 linea 4: 0
 linea 5: 0
