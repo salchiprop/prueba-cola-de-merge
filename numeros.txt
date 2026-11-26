@@ -2,7 +2,7 @@ linea 1: A
 linea 2: 0
 linea 3: A
 linea 4: 0
-linea 5: 0
+linea 5: B
 linea 6: 0
 linea 7: 0
 linea 8: 0
