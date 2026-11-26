@@ -27,7 +27,7 @@ linea 26: 0
 linea 27: 0
 linea 28: 0
 linea 29: 0
-linea 30: 0
+linea 30: E
 linea 31: 0
 linea 32: 0
 linea 33: 0
