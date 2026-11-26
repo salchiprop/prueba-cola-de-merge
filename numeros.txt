@@ -8,7 +8,7 @@ linea 7: 0
 linea 8: 0
 linea 9: B
 linea 10: 0
-linea 11: 0
+linea 11: D
 linea 12: 0
 linea 13: B
 linea 14: 0
