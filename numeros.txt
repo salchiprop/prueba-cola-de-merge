@@ -37,7 +37,7 @@ linea 36: 0
 linea 37: 0
 linea 38: 0
 linea 39: 0
-linea 40: 0
+linea 40: E
 linea 41: 0
 linea 42: 0
 linea 43: 0
