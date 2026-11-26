@@ -4,7 +4,7 @@ linea 3: A
 linea 4: 0
 linea 5: B
 linea 6: 0
-linea 7: 0
+linea 7: C
 linea 8: 0
 linea 9: B
 linea 10: 0
