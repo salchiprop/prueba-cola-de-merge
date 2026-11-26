@@ -31,7 +31,7 @@ linea 30: E
 linea 31: 0
 linea 32: 0
 linea 33: 0
-linea 34: 0
+linea 34: F
 linea 35: 0
 linea 36: 0
 linea 37: 0
