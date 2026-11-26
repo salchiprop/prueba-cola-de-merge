@@ -41,5 +41,5 @@ linea 40: E
 linea 41: 0
 linea 42: 0
 linea 43: 0
-linea 44: 0
+linea 44: F
 linea 45: 0
