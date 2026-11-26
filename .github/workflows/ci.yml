@@ -1,0 +1,11 @@
+name: ci
+on: [pull_request, merge_group]
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: sleep 60
+      - run: |
+          if [ -e romper.txt ]; then echo "romper.txt existe"; exit 1; fi

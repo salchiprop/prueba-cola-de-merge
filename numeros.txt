@@ -1,0 +1,15 @@
+linea 1: 0
+linea 2: 0
+linea 3: 0
+linea 4: 0
+linea 5: 0
+linea 6: 0
+linea 7: 0
+linea 8: 0
+linea 9: 0
+linea 10: 0
+linea 11: 0
+linea 12: 0
+linea 13: 0
+linea 14: 0
+linea 15: 0
