@@ -17,7 +17,7 @@ linea 16: 0
 linea 17: 0
 linea 18: 0
 linea 19: 0
-linea 20: 0
+linea 20: E
 linea 21: 0
 linea 22: 0
 linea 23: 0
